@@ -1,5 +1,6 @@
 # Shift Cipher
 <p><strong>Shift cipher program developed in Python capable of encryption and decryption</strong></p>
+<p>No instruction necessary; follow text based prompts in Python console to use.</p>
 <p>Shifts according to character positions in seperate strings of letters, numbers, and special characters located on US keyboard.  Letter case is retained.</p>
 <h2>Encryption</h2><br>
 <p>User inputted message and key generates ciphertext.  Key determines number of positions forward or backward new character is set to.</p>
